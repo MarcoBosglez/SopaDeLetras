@@ -2,7 +2,7 @@ import sys
 import random
 import string
 import pickle
-
+ 
 def nivel1():
     matriz=[]
     matriz2=[]
